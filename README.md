@@ -8,30 +8,38 @@ Why? As part of improving the website accessibility features by including HTML s
 
 How? By debugging and inspecting existing HTML code provided by Horiseon.  
 
-[Open link for Horiseon refactored HTML code](index.html)
+[Click link for Horiseon refactored HTML code](index.html)
+
+## Deployed Webpage Link
+
+https://kapil319.github.io/refactoring-website/
+
 
 ## Installation
 
-Create github respository 
+Create GitHub respository 
 Open starter code in VS Code
 Refactor and save in VS Code 
 Commit and push all refactored folder contents into github respository for review
 
 
 ## Usage 
+
 The following image shows the Horiseon web application's appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](assets/images/horiseon-refactored.png)
 
 ## Credits
-Andrew Hoang
-Jamie Lujan
+
+Andrew Hoangh,
+Jamie Lujan,
 Nazeh Abel
 
 Module 1 Challenge:
 https://zoom.us/rec/share/l_uQMOgqDjTLu9L0zutosJSPfVaJbIOQjx-lWudept_REEzaJR2uFz4HaviFw6qn.T5pQkfas1wwCWXqY 
 
 ## License
+
 License MIT
 
 ## Features
